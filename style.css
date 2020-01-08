@@ -1,0 +1,49 @@
+* {box-sizing: border-box;
+
+}
+
+header {
+    color: red;
+    font-size: 40px;
+    font-style: italic;
+}
+
+body {
+    background: lightblue;
+    
+}
+
+h2 {
+    color:orange;
+    font-size: 35px;
+    font-style: oblique;
+}
+
+
+h1.lead {
+    color: yellow;
+}
+
+h1.header_one {
+    color: purple;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    color:green;
+
+}
+
+li {
+    color:blue;
+    font-style: normal;
+    font-size: 20px;
+    list-style: none;
+}
+
+
+
+
