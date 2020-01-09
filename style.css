@@ -37,7 +37,7 @@ li {
     border-radius: 15px;
     background: lightgoldenrodyellow;
     border: dotted lightseagreen 5px;
-    margin: 0 auto;
+    margin: 50px;
     padding: 15px;
     color: tomato;
     
@@ -46,6 +46,10 @@ li {
 .square:hover {
     height: 300px;
     background-color: mediumorchid;
+}
+
+aside{
+    margin: 50px;
 }
 
 
