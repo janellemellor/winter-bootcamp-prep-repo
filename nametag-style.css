@@ -1,9 +1,10 @@
 * {box-sizing: border-box;
+    
 }
 
 .nametag {
   width: 500px;
-  height 350px;
+  height: 350px;
   border: solid black 2px;
   border-radius: 25px;
   background-color: red;
@@ -40,3 +41,4 @@
     font-family: cursive;
     text-transform: uppercase;
 }
+
