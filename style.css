@@ -44,6 +44,23 @@ li {
     list-style: none;
 }
 
+.square {
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background: lightgoldenrodyellow;
+    border: dotted lightseagreen 5px;
+    margin: 0 auto;
+    padding: 20px;
+    color: tomato;
+    
 
+}
+
+.square:hover {
+    height: 100px;
+    background-color: violet;
+}
 
 
